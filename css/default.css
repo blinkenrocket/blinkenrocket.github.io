@@ -343,6 +343,10 @@ h1 {
 h2 {
   font-size: 4.236rem;
 }
+p {
+  max-width: 40rem;
+  font-weight: 300;
+}
 a {
   border: none;
   text-decoration: none;
