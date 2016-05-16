@@ -467,6 +467,49 @@ a .fa {
 .contact {
   z-index: 97;
 }
+@media only screen and (max-width: 992px) {
+  .hero {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .hero svg {
+    height: auto;
+    width: 70vw;
+  }
+  .hero h1 {
+    font-size: 17.5vw;
+    text-align: center;
+    line-height: 20vw;
+    margin: 3rem 0 0 0;
+  }
+  .hero span {
+    display: block;
+  }
+  h2 {
+    font-size: 10vw;
+    text-align: center;
+  }
+  .info,
+  .contact {
+    padding: 3rem 1.5rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+  .links {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .contact a {
+    font-size: 8vw;
+  }
+}
 @-webkit-keyframes bg-fade {
   from {
     backgound-color: #061d29;
