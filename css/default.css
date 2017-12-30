@@ -318,7 +318,6 @@ blockquote > figcaption:before {
   word-break: break-all;
   word-break: break-word;
   -webkit-hyphens: auto;
-     -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
   -webkit-hyphenate-before: 2;
@@ -387,18 +386,15 @@ a .fa {
 .hero {
   z-index: 100;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   width: 100vw;
   min-height: 100vh;
   padding: 4rem 0;
   -webkit-box-align: center;
-  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
   background-color: #061d29;
@@ -422,16 +418,13 @@ a .fa {
 .info,
 .contact {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
   -webkit-box-align: center;
-  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
   padding: 15rem 0;
@@ -443,14 +436,12 @@ a .fa {
 .links {
   z-index: 98;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   background-color: #135779;
 }
 .links a {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0;
       -ms-flex: 1 0;
           flex: 1 0;
   padding: 5rem 0;
@@ -471,7 +462,6 @@ a .fa {
   .hero {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
   }
@@ -502,7 +492,6 @@ a .fa {
   .links {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
   }
