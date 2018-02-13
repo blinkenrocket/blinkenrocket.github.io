@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <!-- Meta-->
-        <meta charset="utf-8">
-        <meta http-equiv="content-type" content="text/html; charset=utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>blinkenrocket</title>
-        <meta name="viewport" content="width=device-width">
-        <!-- Icons-->
-        <link rel="shortcut icon" href="images/favicon.ico">
-
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900,400italic,100italic,300italic,700italic,500italic,900italic">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-        <!-- Styles-->
-        <link href="style.css" rel="stylesheet">
-    </head>
-    <body>
-        
-<nav class="menu">
-    <a href="index.en.html">english</a>
-</nav>
-
-        <section id="content" class="content">
-            
-
-<div class="hero">
-    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -155,37 +128,3 @@
       id="path3969"
       inkscape:connector-curvature="0" />
 </svg>
-
-    <h1>
-        <span class="blinken">blinken</span>
-        <span class="rocket">rocket</span>
-    </h1>
-</div>
-
-<div class="info">
-    <h2>Über Blinkenrocket</h2>
-    <p>Die Blinkenrocket ist ein Lötlern-Bausatz der speziell für Kinder, Jugendliche und junge Erwachsene entwickelt wurde. Mit Komponenten verschiedener Schwierigkeitsgrade wird umfangreiches Lötwissen in kürzester Zeit vermittelt.</p>
-    <p>Technisch begeistert Blinkenrocket durch die einfache Programmierung über ein Audio Interface. Texte und Animationen können einfach, ohne besondere Programmieradapter per Smartphone, Computer oder MP3-Player aufgespielt werden. 64 Leuchtdioden im Dot-Matrix Display ermöglichen viele Darstellungsmöglichkeiten. Pins an der Seite ermöglichen die Erweiterung der Blinkenrocket.</p>
-    <p>Hast du Lust selbst einen Workshop zu halten? Schreib uns einfach eine Mail!</p>
-    <p>Bausätze gibt es ab sofort auch im hackerspaceshop.com</p>
-</div>
-
-<div class="links">
-    <a href="webedit-react/" class="odd"><div class="fa fa-wrench"></div>Editor</a>
-    <a href="https://github.com/blinkenrocket/documentation/raw/master/manual/manual.pdf" class="even"><div class="fa fa-book"></div>Anleitung</a>
-    <a href="http://www.instructables.com/id/BLINKENROCKET/" class="odd"><div class="fa fa-magic"></div>Tutorial</a>
-    <a href="https://hackerspaceshop.com/products/blinkenrocket" class="even"><div class="fa fa-money"></div>Kaufen</a>
-    <a href="sponsors.html" class="odd"><div class="fa fa-star"></div>Sponsoren</a>
-</div>
-
-<div class="contact">
-    <a href="mailto:info@blinkenrocket.de"><div class="fa fa-envelope-o"></div>info@blinkenrocket.de</a>
-</div>
-
-<div class="legal-link">
-    <a href="legal.html">Impressum</a>
-</div>
-
-        </section>
-    </body>
-</html>
